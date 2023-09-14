@@ -1,0 +1,4 @@
+Test statement 3 for text.txt
+ appended statement
+ manually appended statement from writeFile method
+ file name updated
